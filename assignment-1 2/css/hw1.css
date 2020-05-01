@@ -1,0 +1,41 @@
+h1{
+  color: white;
+  text-align: center;
+font-weight: bolder;
+  font-size: 30px;
+}
+nav {
+  color: black;
+
+}
+img {
+  display: none;
+}
+h2{
+
+  font-size: 30px;
+  color: navy;
+
+}
+.right {
+  background-color: grey;
+
+}
+a{
+  color: black;
+  font-weight: bolder;
+  background-color: #d8d8d8;
+}
+p{
+  font-size: 20px;
+}
+header{
+background-color: #A8A8A8;
+}
+table{
+  font-size: 18px;
+  
+}
+thead{
+  font-weight: bolder;
+}
